@@ -1,0 +1,3 @@
+Blue: #0282d7
+Grey: #2f2f2f
+White:#FFFFFF
